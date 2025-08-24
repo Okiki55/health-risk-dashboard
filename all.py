@@ -3,8 +3,8 @@ import pickle
 import numpy as np
 
 # Load models
-diabetes_model = pickle.load(open(r"C:\Users\Abodein Okikiola\Documents\Machine Learning\project\health\diabetes.pkl", "rb"))
-heart_model = pickle.load(open(r"C:\Users\Abodein Okikiola\Documents\Machine Learning\project\health\heart.pkl", "rb"))
+diabetes_model = pickle.load(open("diabetes.pkl", "rb"))
+heart_model = pickle.load(open("heart.pkl", "rb"))
 
 st.set_page_config(page_title="AI-Powered Disease Risk Dashboard", layout="wide")
 st.title("🩺 AI-Powered Disease Risk Dashboard")
