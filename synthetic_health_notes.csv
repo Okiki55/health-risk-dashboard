@@ -1,0 +1,211 @@
+doctor_note,label
+"Patient, age 64, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 23.5.",Diabetes
+"Patient, age 64, History of smoking, hypertension, and irregular heartbeat. BMI 21.0.",Heart Disease
+"Patient, age 33, Regular checkup shows normal blood pressure and cholesterol levels. BMI 32.2.",Low Risk
+"Patient, age 35, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 31.7.",Diabetes
+"Patient, age 60, History of smoking, hypertension, and irregular heartbeat. BMI 19.0.",Heart Disease
+"Patient, age 62, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 24.5.",Low Risk
+"Patient, age 48, Complains of numbness in feet and slow healing wounds. BMI 29.8.",Diabetes
+"Patient, age 58, History of smoking, hypertension, and irregular heartbeat. BMI 22.4.",Heart Disease
+"Patient, age 29, No complaints of chest pain, fatigue, or unusual symptoms. BMI 30.5.",Low Risk
+"Patient, age 46, Frequent urination, blurred vision, high glucose levels observed. BMI 30.6.",Diabetes
+"Patient, age 45, Patient reports chest pain during exercise and shortness of breath. BMI 27.2.",Heart Disease
+"Patient, age 33, No complaints of chest pain, fatigue, or unusual symptoms. BMI 26.9.",Low Risk
+"Patient, age 40, Reports sudden weight loss and high fasting blood sugar. BMI 28.9.",Diabetes
+"Patient, age 32, Severe chest discomfort, radiating pain to left arm. BMI 34.0.",Heart Disease
+"Patient, age 27, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 22.1.",Low Risk
+"Patient, age 36, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 21.9.",Diabetes
+"Patient, age 24, History of smoking, hypertension, and irregular heartbeat. BMI 33.6.",Heart Disease
+"Patient, age 25, No complaints of chest pain, fatigue, or unusual symptoms. BMI 19.7.",Low Risk
+"Patient, age 51, Reports sudden weight loss and high fasting blood sugar. BMI 19.9.",Diabetes
+"Patient, age 69, History of smoking, hypertension, and irregular heartbeat. BMI 23.7.",Heart Disease
+"Patient, age 58, Maintains healthy BMI and engages in daily physical activity. BMI 35.0.",Low Risk
+"Patient, age 21, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 20.4.",Diabetes
+"Patient, age 37, Complains of fatigue, high blood pressure, and swelling in legs. BMI 25.6.",Heart Disease
+"Patient, age 78, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 30.1.",Low Risk
+"Patient, age 67, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 19.9.",Diabetes
+"Patient, age 69, Patient reports chest pain during exercise and shortness of breath. BMI 26.6.",Heart Disease
+"Patient, age 63, Maintains healthy BMI and engages in daily physical activity. BMI 33.0.",Low Risk
+"Patient, age 67, Frequent urination, blurred vision, high glucose levels observed. BMI 30.1.",Diabetes
+"Patient, age 39, Severe chest discomfort, radiating pain to left arm. BMI 21.1.",Heart Disease
+"Patient, age 23, Regular checkup shows normal blood pressure and cholesterol levels. BMI 26.1.",Low Risk
+"Patient, age 37, Frequent urination, blurred vision, high glucose levels observed. BMI 29.7.",Diabetes
+"Patient, age 50, High cholesterol levels and irregular ECG readings. BMI 24.9.",Heart Disease
+"Patient, age 74, Regular checkup shows normal blood pressure and cholesterol levels. BMI 24.1.",Low Risk
+"Patient, age 33, Complains of numbness in feet and slow healing wounds. BMI 22.1.",Diabetes
+"Patient, age 76, Complains of fatigue, high blood pressure, and swelling in legs. BMI 33.3.",Heart Disease
+"Patient, age 37, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 27.1.",Low Risk
+"Patient, age 23, Complains of numbness in feet and slow healing wounds. BMI 18.8.",Diabetes
+"Patient, age 68, High cholesterol levels and irregular ECG readings. BMI 30.6.",Heart Disease
+"Patient, age 51, Maintains healthy BMI and engages in daily physical activity. BMI 19.4.",Low Risk
+"Patient, age 65, Frequent urination, blurred vision, high glucose levels observed. BMI 23.4.",Diabetes
+"Patient, age 31, Patient reports chest pain during exercise and shortness of breath. BMI 30.0.",Heart Disease
+"Patient, age 31, No complaints of chest pain, fatigue, or unusual symptoms. BMI 19.4.",Low Risk
+"Patient, age 70, Frequent urination, blurred vision, high glucose levels observed. BMI 28.1.",Diabetes
+"Patient, age 26, High cholesterol levels and irregular ECG readings. BMI 18.6.",Heart Disease
+"Patient, age 21, No complaints of chest pain, fatigue, or unusual symptoms. BMI 25.4.",Low Risk
+"Patient, age 70, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 33.9.",Diabetes
+"Patient, age 36, Severe chest discomfort, radiating pain to left arm. BMI 34.3.",Heart Disease
+"Patient, age 49, Maintains healthy BMI and engages in daily physical activity. BMI 24.6.",Low Risk
+"Patient, age 69, Complains of numbness in feet and slow healing wounds. BMI 24.9.",Diabetes
+"Patient, age 77, History of smoking, hypertension, and irregular heartbeat. BMI 34.5.",Heart Disease
+"Patient, age 61, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 34.4.",Low Risk
+"Patient, age 61, Frequent urination, blurred vision, high glucose levels observed. BMI 20.4.",Diabetes
+"Patient, age 48, Severe chest discomfort, radiating pain to left arm. BMI 25.5.",Heart Disease
+"Patient, age 65, No complaints of chest pain, fatigue, or unusual symptoms. BMI 28.8.",Low Risk
+"Patient, age 76, Complains of numbness in feet and slow healing wounds. BMI 23.8.",Diabetes
+"Patient, age 63, Severe chest discomfort, radiating pain to left arm. BMI 32.7.",Heart Disease
+"Patient, age 69, Regular checkup shows normal blood pressure and cholesterol levels. BMI 24.8.",Low Risk
+"Patient, age 66, Frequent urination, blurred vision, high glucose levels observed. BMI 33.1.",Diabetes
+"Patient, age 44, Severe chest discomfort, radiating pain to left arm. BMI 30.7.",Heart Disease
+"Patient, age 61, Regular checkup shows normal blood pressure and cholesterol levels. BMI 34.3.",Low Risk
+"Patient, age 25, Complains of numbness in feet and slow healing wounds. BMI 32.4.",Diabetes
+"Patient, age 37, Complains of fatigue, high blood pressure, and swelling in legs. BMI 22.3.",Heart Disease
+"Patient, age 48, No complaints of chest pain, fatigue, or unusual symptoms. BMI 26.8.",Low Risk
+"Patient, age 55, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 31.9.",Diabetes
+"Patient, age 34, Severe chest discomfort, radiating pain to left arm. BMI 33.6.",Heart Disease
+"Patient, age 70, Regular checkup shows normal blood pressure and cholesterol levels. BMI 33.0.",Low Risk
+"Patient, age 20, Reports sudden weight loss and high fasting blood sugar. BMI 31.0.",Diabetes
+"Patient, age 58, Severe chest discomfort, radiating pain to left arm. BMI 27.4.",Heart Disease
+"Patient, age 63, No complaints of chest pain, fatigue, or unusual symptoms. BMI 19.8.",Low Risk
+"Patient, age 74, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 31.1.",Diabetes
+"Patient, age 78, Complains of fatigue, high blood pressure, and swelling in legs. BMI 32.3.",Heart Disease
+"Patient, age 39, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 22.2.",Low Risk
+"Patient, age 42, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 26.7.",Diabetes
+"Patient, age 60, Patient reports chest pain during exercise and shortness of breath. BMI 20.7.",Heart Disease
+"Patient, age 26, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 27.0.",Low Risk
+"Patient, age 28, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 29.9.",Diabetes
+"Patient, age 77, High cholesterol levels and irregular ECG readings. BMI 33.9.",Heart Disease
+"Patient, age 32, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 27.6.",Low Risk
+"Patient, age 43, Complains of numbness in feet and slow healing wounds. BMI 31.3.",Diabetes
+"Patient, age 50, History of smoking, hypertension, and irregular heartbeat. BMI 18.8.",Heart Disease
+"Patient, age 20, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 20.1.",Low Risk
+"Patient, age 31, Reports sudden weight loss and high fasting blood sugar. BMI 28.8.",Diabetes
+"Patient, age 27, Patient reports chest pain during exercise and shortness of breath. BMI 23.3.",Heart Disease
+"Patient, age 79, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 19.8.",Low Risk
+"Patient, age 80, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 29.7.",Diabetes
+"Patient, age 31, High cholesterol levels and irregular ECG readings. BMI 31.2.",Heart Disease
+"Patient, age 47, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 24.4.",Low Risk
+"Patient, age 28, Frequent urination, blurred vision, high glucose levels observed. BMI 22.4.",Diabetes
+"Patient, age 53, High cholesterol levels and irregular ECG readings. BMI 26.0.",Heart Disease
+"Patient, age 71, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 23.6.",Low Risk
+"Patient, age 77, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 32.0.",Diabetes
+"Patient, age 78, Severe chest discomfort, radiating pain to left arm. BMI 26.2.",Heart Disease
+"Patient, age 69, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 24.4.",Low Risk
+"Patient, age 33, Complains of numbness in feet and slow healing wounds. BMI 26.2.",Diabetes
+"Patient, age 72, Complains of fatigue, high blood pressure, and swelling in legs. BMI 29.0.",Heart Disease
+"Patient, age 58, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 34.6.",Low Risk
+"Patient, age 31, Reports sudden weight loss and high fasting blood sugar. BMI 30.2.",Diabetes
+"Patient, age 62, History of smoking, hypertension, and irregular heartbeat. BMI 34.5.",Heart Disease
+"Patient, age 58, Regular checkup shows normal blood pressure and cholesterol levels. BMI 20.9.",Low Risk
+"Patient, age 24, Frequent urination, blurred vision, high glucose levels observed. BMI 29.7.",Diabetes
+"Patient, age 60, History of smoking, hypertension, and irregular heartbeat. BMI 30.3.",Heart Disease
+"Patient, age 63, No complaints of chest pain, fatigue, or unusual symptoms. BMI 20.0.",Low Risk
+"Patient, age 40, Frequent urination, blurred vision, high glucose levels observed. BMI 19.2.",Diabetes
+"Patient, age 45, Patient reports chest pain during exercise and shortness of breath. BMI 32.6.",Heart Disease
+"Patient, age 24, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 26.2.",Low Risk
+"Patient, age 35, Complains of numbness in feet and slow healing wounds. BMI 34.6.",Diabetes
+"Patient, age 60, Patient reports chest pain during exercise and shortness of breath. BMI 20.9.",Heart Disease
+"Patient, age 36, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 22.3.",Low Risk
+"Patient, age 40, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 29.9.",Diabetes
+"Patient, age 25, Complains of fatigue, high blood pressure, and swelling in legs. BMI 28.6.",Heart Disease
+"Patient, age 27, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 33.2.",Low Risk
+"Patient, age 68, Frequent urination, blurred vision, high glucose levels observed. BMI 31.2.",Diabetes
+"Patient, age 40, History of smoking, hypertension, and irregular heartbeat. BMI 34.0.",Heart Disease
+"Patient, age 73, No complaints of chest pain, fatigue, or unusual symptoms. BMI 34.0.",Low Risk
+"Patient, age 42, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 21.6.",Diabetes
+"Patient, age 20, Complains of fatigue, high blood pressure, and swelling in legs. BMI 19.1.",Heart Disease
+"Patient, age 29, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 29.7.",Low Risk
+"Patient, age 69, Frequent urination, blurred vision, high glucose levels observed. BMI 24.4.",Diabetes
+"Patient, age 40, Severe chest discomfort, radiating pain to left arm. BMI 33.3.",Heart Disease
+"Patient, age 33, Maintains healthy BMI and engages in daily physical activity. BMI 21.7.",Low Risk
+"Patient, age 45, Reports sudden weight loss and high fasting blood sugar. BMI 22.5.",Diabetes
+"Patient, age 46, History of smoking, hypertension, and irregular heartbeat. BMI 31.1.",Heart Disease
+"Patient, age 79, Maintains healthy BMI and engages in daily physical activity. BMI 23.9.",Low Risk
+"Patient, age 35, Reports sudden weight loss and high fasting blood sugar. BMI 18.9.",Diabetes
+"Patient, age 72, High cholesterol levels and irregular ECG readings. BMI 19.2.",Heart Disease
+"Patient, age 61, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 18.6.",Low Risk
+"Patient, age 53, Reports sudden weight loss and high fasting blood sugar. BMI 24.0.",Diabetes
+"Patient, age 45, History of smoking, hypertension, and irregular heartbeat. BMI 34.8.",Heart Disease
+"Patient, age 52, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 29.0.",Low Risk
+"Patient, age 70, Reports sudden weight loss and high fasting blood sugar. BMI 29.7.",Diabetes
+"Patient, age 65, Patient reports chest pain during exercise and shortness of breath. BMI 27.7.",Heart Disease
+"Patient, age 40, Regular checkup shows normal blood pressure and cholesterol levels. BMI 24.4.",Low Risk
+"Patient, age 58, Complains of numbness in feet and slow healing wounds. BMI 30.2.",Diabetes
+"Patient, age 50, High cholesterol levels and irregular ECG readings. BMI 28.4.",Heart Disease
+"Patient, age 30, Regular checkup shows normal blood pressure and cholesterol levels. BMI 22.7.",Low Risk
+"Patient, age 31, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 24.4.",Diabetes
+"Patient, age 80, Complains of fatigue, high blood pressure, and swelling in legs. BMI 28.6.",Heart Disease
+"Patient, age 46, Regular checkup shows normal blood pressure and cholesterol levels. BMI 26.5.",Low Risk
+"Patient, age 58, Reports sudden weight loss and high fasting blood sugar. BMI 22.4.",Diabetes
+"Patient, age 25, Complains of fatigue, high blood pressure, and swelling in legs. BMI 29.9.",Heart Disease
+"Patient, age 51, No complaints of chest pain, fatigue, or unusual symptoms. BMI 32.7.",Low Risk
+"Patient, age 55, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 25.1.",Diabetes
+"Patient, age 69, Complains of fatigue, high blood pressure, and swelling in legs. BMI 30.9.",Heart Disease
+"Patient, age 57, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 34.3.",Low Risk
+"Patient, age 43, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 34.4.",Diabetes
+"Patient, age 60, Patient reports chest pain during exercise and shortness of breath. BMI 21.2.",Heart Disease
+"Patient, age 58, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 23.6.",Low Risk
+"Patient, age 37, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 25.5.",Diabetes
+"Patient, age 61, Severe chest discomfort, radiating pain to left arm. BMI 31.6.",Heart Disease
+"Patient, age 50, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 19.1.",Low Risk
+"Patient, age 20, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 32.4.",Diabetes
+"Patient, age 27, High cholesterol levels and irregular ECG readings. BMI 27.7.",Heart Disease
+"Patient, age 53, Maintains healthy BMI and engages in daily physical activity. BMI 20.2.",Low Risk
+"Patient, age 42, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 18.8.",Diabetes
+"Patient, age 25, Severe chest discomfort, radiating pain to left arm. BMI 28.2.",Heart Disease
+"Patient, age 25, No complaints of chest pain, fatigue, or unusual symptoms. BMI 22.0.",Low Risk
+"Patient, age 42, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 30.7.",Diabetes
+"Patient, age 31, High cholesterol levels and irregular ECG readings. BMI 29.2.",Heart Disease
+"Patient, age 33, Maintains healthy BMI and engages in daily physical activity. BMI 28.3.",Low Risk
+"Patient, age 22, Frequent urination, blurred vision, high glucose levels observed. BMI 34.0.",Diabetes
+"Patient, age 32, Patient reports chest pain during exercise and shortness of breath. BMI 21.2.",Heart Disease
+"Patient, age 80, No complaints of chest pain, fatigue, or unusual symptoms. BMI 21.6.",Low Risk
+"Patient, age 66, Frequent urination, blurred vision, high glucose levels observed. BMI 24.3.",Diabetes
+"Patient, age 41, History of smoking, hypertension, and irregular heartbeat. BMI 28.7.",Heart Disease
+"Patient, age 45, Maintains healthy BMI and engages in daily physical activity. BMI 18.5.",Low Risk
+"Patient, age 64, Frequent urination, blurred vision, high glucose levels observed. BMI 30.0.",Diabetes
+"Patient, age 33, Severe chest discomfort, radiating pain to left arm. BMI 32.3.",Heart Disease
+"Patient, age 47, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 20.7.",Low Risk
+"Patient, age 63, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 23.3.",Diabetes
+"Patient, age 52, High cholesterol levels and irregular ECG readings. BMI 25.5.",Heart Disease
+"Patient, age 53, No complaints of chest pain, fatigue, or unusual symptoms. BMI 20.1.",Low Risk
+"Patient, age 65, Complains of numbness in feet and slow healing wounds. BMI 21.5.",Diabetes
+"Patient, age 35, Severe chest discomfort, radiating pain to left arm. BMI 25.6.",Heart Disease
+"Patient, age 66, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 19.1.",Low Risk
+"Patient, age 22, Reports sudden weight loss and high fasting blood sugar. BMI 29.2.",Diabetes
+"Patient, age 38, Complains of fatigue, high blood pressure, and swelling in legs. BMI 33.5.",Heart Disease
+"Patient, age 39, No complaints of chest pain, fatigue, or unusual symptoms. BMI 30.5.",Low Risk
+"Patient, age 48, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 29.5.",Diabetes
+"Patient, age 63, Severe chest discomfort, radiating pain to left arm. BMI 27.4.",Heart Disease
+"Patient, age 57, No complaints of chest pain, fatigue, or unusual symptoms. BMI 22.1.",Low Risk
+"Patient, age 24, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 19.8.",Diabetes
+"Patient, age 70, History of smoking, hypertension, and irregular heartbeat. BMI 31.6.",Heart Disease
+"Patient, age 29, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 21.1.",Low Risk
+"Patient, age 44, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 25.3.",Diabetes
+"Patient, age 72, Complains of fatigue, high blood pressure, and swelling in legs. BMI 33.3.",Heart Disease
+"Patient, age 40, Regular checkup shows normal blood pressure and cholesterol levels. BMI 32.6.",Low Risk
+"Patient, age 57, Patient complains of excessive thirst and fatigue. Insulin resistance suspected. BMI 28.2.",Diabetes
+"Patient, age 73, Patient reports chest pain during exercise and shortness of breath. BMI 29.7.",Heart Disease
+"Patient, age 74, Regular checkup shows normal blood pressure and cholesterol levels. BMI 34.7.",Low Risk
+"Patient, age 31, Reports sudden weight loss and high fasting blood sugar. BMI 31.1.",Diabetes
+"Patient, age 34, Patient reports chest pain during exercise and shortness of breath. BMI 26.6.",Heart Disease
+"Patient, age 63, Maintains healthy BMI and engages in daily physical activity. BMI 24.5.",Low Risk
+"Patient, age 52, Reports sudden weight loss and high fasting blood sugar. BMI 34.3.",Diabetes
+"Patient, age 56, High cholesterol levels and irregular ECG readings. BMI 27.7.",Heart Disease
+"Patient, age 57, No complaints of chest pain, fatigue, or unusual symptoms. BMI 29.6.",Low Risk
+"Patient, age 54, Complains of numbness in feet and slow healing wounds. BMI 31.9.",Diabetes
+"Patient, age 42, Patient reports chest pain during exercise and shortness of breath. BMI 21.2.",Heart Disease
+"Patient, age 61, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 25.3.",Low Risk
+"Patient, age 41, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 18.5.",Diabetes
+"Patient, age 56, Complains of fatigue, high blood pressure, and swelling in legs. BMI 34.1.",Heart Disease
+"Patient, age 34, Maintains healthy BMI and engages in daily physical activity. BMI 25.9.",Low Risk
+"Patient, age 25, BMI above normal, family history of diabetes, risk of Type 2 diabetes. BMI 23.3.",Diabetes
+"Patient, age 31, Severe chest discomfort, radiating pain to left arm. BMI 24.7.",Heart Disease
+"Patient, age 28, No complaints of chest pain, fatigue, or unusual symptoms. BMI 24.0.",Low Risk
+"Patient, age 65, Complains of numbness in feet and slow healing wounds. BMI 19.1.",Diabetes
+"Patient, age 77, Complains of fatigue, high blood pressure, and swelling in legs. BMI 33.8.",Heart Disease
+"Patient, age 78, Patient reports normal appetite, regular exercise, and no significant health issues. BMI 31.2.",Low Risk
+"Patient, age 61, Reports sudden weight loss and high fasting blood sugar. BMI 28.5.",Diabetes
+"Patient, age 76, History of smoking, hypertension, and irregular heartbeat. BMI 31.9.",Heart Disease
+"Patient, age 64, Stable vital signs, active lifestyle, no family history of chronic illness. BMI 29.6.",Low Risk
