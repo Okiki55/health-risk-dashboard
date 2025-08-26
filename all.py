@@ -89,7 +89,6 @@ if option == "Diabetes":
         fig2 = plt.figure(figsize=(8, 5))
         shap.summary_plot(bg_shap, features=X_bg_trans, feature_names=dia_cols, plot_type="bar", show=False)
         st.pyplot(fig2, clear_figure=True)
-
 # ===============================
 # Heart Disease Prediction + Explainability
 # ===============================
@@ -123,6 +122,24 @@ elif option == "Heart Disease":
 
     input_df = pd.DataFrame([heart_features])
 
+    # 🔹 Apply same mappings as training
+    sex_map = {"Female": 0, "Male": 1}
+    cp_map = {"Typical angina": 0, "Atypical angina": 1, "Non-anginal pain": 2, "Asymptomatic": 3}
+    fbs_map = {"≤120 mg/dl": 0, ">120 mg/dl": 1}
+    restecg_map = {"Normal": 0, "ST-T abnormality": 1, "LV hypertrophy": 2}
+    exang_map = {"No": 0, "Yes": 1}
+    slope_map = {"Upsloping": 0, "Flat": 1, "Downsloping": 2}
+    thal_map = {"Normal": 0, "Fixed defect": 1, "Reversible defect": 2}
+
+    input_df = input_df.copy()
+    input_df["Sex"] = input_df["Sex"].map(sex_map)
+    input_df["ChestPainType"] = input_df["ChestPainType"].map(cp_map)
+    input_df["FastingBS"] = input_df["FastingBS"].map(fbs_map)
+    input_df["RestingECG"] = input_df["RestingECG"].map(restecg_map)
+    input_df["ExerciseAngina"] = input_df["ExerciseAngina"].map(exang_map)
+    input_df["ST_Slope"] = input_df["ST_Slope"].map(slope_map)
+    input_df["Thal"] = input_df["Thal"].map(thal_map)
+
     c1, c2 = st.columns([1,1])
     with c1:
         if st.button("Predict Heart Disease Risk"):
@@ -152,7 +169,12 @@ elif option == "Heart Disease":
 
         # Local explanation
         st.markdown("**Local explanation (waterfall):**")
-        fig = shap.plots._waterfall.waterfall_legacy(explainer.expected_value, shap_values[0], feature_names=heart_cols, show=False)
+        fig = shap.plots._waterfall.waterfall_legacy(
+            explainer.expected_value,
+            shap_values[0],
+            feature_names=heart_cols,
+            show=False
+        )
         st.pyplot(fig, clear_figure=True)
 
         # Global importance (SHAP bar) using background
